@@ -1,4 +1,5 @@
-# icomm-ecomerce
+# icomm-ecommerce
+[Acesse o site da aplicação aqui](https://icomm-ecomerce.vercel.app/)
 
 Aplicação de comércio eletrônico no segmento de moda.
 
