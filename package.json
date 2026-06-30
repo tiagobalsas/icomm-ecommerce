@@ -2,6 +2,12 @@
   "dependencies": {
     "picomatch": "^4.0.4",
     "rollup": "^4.62.2",
-    "vite": "^7.3.5"
+    "vite": "^7.3.6"
+  },
+  "overrides": {
+    "esbuild": "^0.28.1",
+    "rollup": "^4.62.2",
+    "picomatch": "^4.0.4",
+    "postcss": "^8.5.10"
   }
 }
