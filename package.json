@@ -2,7 +2,7 @@
   "dependencies": {
     "picomatch": "^4.0.4",
     "rollup": "^4.62.2",
-    "vite": "^7.3.6"
+    "vite": "^7.3.7"
   },
   "overrides": {
     "esbuild": "^0.28.1",
